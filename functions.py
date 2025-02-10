@@ -179,9 +179,9 @@ class Functions(Embroidery):
                                text=f'Itens: {self.new_qty}', fg='white', bg='#b82323', font=('Helvetica', 13, 'bold'))
         self.label_qty.place(relx=0.017, rely=0.55)
 
-        self.btn_clean = Button(self.frame_new_top_white_bar, text='Limpar', bg='#b82323', fg='white', relief='flat', font=(
+        self.btn_clear = Button(self.frame_new_top_white_bar, text='Limpar', bg='#b82323', fg='white', relief='flat', font=(
             'Futura', 10, 'bold'), command=self.delete_values)
-        self.btn_clean.place(relx=0.935, rely=0.53, anchor='center')
+        self.btn_clear.place(relx=0.935, rely=0.53, anchor='center')
 
     def add_or_update(self, qty, new_item, new_value):
         updated_item = False
