@@ -36,11 +36,11 @@ Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser # Then type
 - Silk or Embroidery: If you want to customize your uniforms(optional) you can enter the cost of each. Otherwise, just close the window.
 - Quantity: Enter the quantity of items.
 
-### 4. Keyboard keys
+### 4. Keyboard keys and mouse
 - ⌨️ Arrows: Navigate through the list 
 - 🖰 Left-Mouse: Navigate through the list 
 - ↵  Enter: Select an item
-- ![icons8-computer-mouse-20](https://github.com/user-attachments/assets/ca356564-807a-40a4-9acd-4ab099b16935) Double-click:
+- ![icons8-computer-mouse-20](https://github.com/user-attachments/assets/ca356564-807a-40a4-9acd-4ab099b16935) Double-click: Delete an item on the Treeview
 
 
 ## ƒ Functions
