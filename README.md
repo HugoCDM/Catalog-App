@@ -35,7 +35,12 @@ Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser # Then type
 ### 3. Simpledialog Section
 - Silk or Embroidery: If you want to customize your uniforms(optional) you can enter the cost of each. Otherwise, just close the window.
 - Quantity: Enter the quantity of items.
-  
+
+### 4. Keyboard keys
+- ⌨️ Arrows: Navigate through the list 
+- 🖰 Left-Mouse: Navigate through the list 
+- ↵  Enter: Select an item
+- ![icons8-computer-mouse-20](https://github.com/user-attachments/assets/ca356564-807a-40a4-9acd-4ab099b16935) Double-click:
 
 
 ## ƒ Functions
@@ -55,7 +60,7 @@ Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser # Then type
 - A clear button is displayed on top for deleting all items
 
 ### add_or_update()
-- Add a item if not exists in the list(Treeview)
+- Add an item if not exists in the list(Treeview)
 - Update the item, quantity and value if already exists in the list(Treeview)
 
 ### update()
@@ -68,12 +73,26 @@ Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser # Then type
 - Displays the corresponding items with the words you type
 - Updates the Treeview calling the update() function
 
+### show_calculator()
+- Splits the screen to show the calculator
+- The Treeview is built
+- Double-clicking on the selected item of the list deletes it automatically
+
+### close_windows()
+- Ensure all windows are closed when clicking the X on the main window
+
 
 
 ## 🌅 Image section
+![catalog](https://github.com/user-attachments/assets/82d8d556-dd37-4d38-b163-2463612a9375)
+![catalog_calculator](https://github.com/user-attachments/assets/f67da28c-f19d-4518-9319-c738613ad353)
+![catalog_embroidery](https://github.com/user-attachments/assets/798bacf7-8c7e-4b39-9136-0bbba379f56e)
+![catalog_camisa](https://github.com/user-attachments/assets/3c2b05c9-0fc8-48f4-8a55-b7650244b130)
+![catalog_camisa_silkorembroidery](https://github.com/user-attachments/assets/3b3b9049-ecb4-4d9e-8097-1856e7eab9f7)
+![catalog_camisa_qty](https://github.com/user-attachments/assets/b4c51f88-de41-475b-93e9-584acd434527)
+![catalog_selected_camisa_calculator](https://github.com/user-attachments/assets/640bb1c8-735b-4dc0-ad95-a656d4d736ab)
+![catalog_selected_camisa_colete_calculator](https://github.com/user-attachments/assets/a3563564-d9d8-4071-97a3-e946a530a4fd)
 
-
-! images !
 
 
 ### *Made by [Hugo Mello](https://github.com/HugoCDM)*
