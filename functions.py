@@ -206,7 +206,7 @@ class Functions(Embroidery):
                 break
 
         if not updated_item:
-            # Insert the item if it doesn't not already exist in the Treeview
+            # Insert the item if it doesn't already exist in the Treeview
             self.listClick.insert('', END, values=(
                 qty, new_item, f"{new_value:.2f}"))
 
